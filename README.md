@@ -1,2 +1,2 @@
-# Machine-Learning-in-Your-Database-with-MindsDB
-Machine Learning in Your Database with MindsDB
+# Citizen-Data-Science-with-MindsDB
+Citizen Data Science with MindsDB
